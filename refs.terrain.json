@@ -1,0 +1,10 @@
+{
+  "testnet": {
+    "transaction-size": {
+      "codeId": "3479",
+      "contractAddresses": {
+        "default": "terra1yrdvhgcs2x50jpcpyu3qxk707cgpxt6wuju9jrvtdayj4kevru8q3s2n9h"
+      }
+    }
+  }
+}

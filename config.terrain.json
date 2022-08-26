@@ -1,0 +1,21 @@
+{
+  "_global": {
+    "_base": {
+      "instantiation": {
+        "instantiateMsg": { }
+      }
+    }
+  },
+  "testnet": {
+    "_connection": {
+      "chainID": "pisco-1",
+      "URL": "http://18.194.243.144:1317"
+    }
+  },
+  "localterra": {
+    "_connection": {
+      "chainID": "localterra",
+      "URL": "http://localhost:1317"
+    }
+  }
+}

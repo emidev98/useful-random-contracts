@@ -1,0 +1,1 @@
+fd5e34092845414683fa916a33c1022bf5ab7ecd1f058d765b34af2ec816367a  ./target/wasm32-unknown-unknown/release/transaction_size.wasm
